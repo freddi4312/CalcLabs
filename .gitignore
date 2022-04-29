@@ -1,0 +1,20 @@
+# Ignore all
+*
+
+# Except this
+!**/*.cpp
+!**/*.c
+!**/*.h
+!**/*.sln
+!**/*.vcxproj
+!**/*.vcxproj.filters
+!.gitignore
+!Lab1/
+!Lab2/
+#!Lab3.1/
+!Lab3.2/
+!Lab4.1/
+!Lab4.2/
+!Lab5.1/
+!Lab5.2/
+!Lab6/
